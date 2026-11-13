@@ -1,0 +1,31 @@
+order_id,customer_id,customer_name,customer_city,restaurant_id,restaurant_name,cuisine,order_date,meal_type,payment_method,delivery_partner_id,order_amount,delivery_fee,discount,tax,total_amount,order_status,delivery_time_minutes,rating
+1,C001,Aarav,Pune,R001,Spice Hub,Indian,05-01-2026,Lunch,UPI,D001,420,30,20,21,451,Delivered,32,4
+2,C002,Isha,Mumbai,R002,Pizza Point,Italian,07-01-2026,Dinner,Card,D002,650,40,50,32,672,Delivered,41,5
+3,C003,Rohan,Pune,R003,Burger House,Fast Food,10-01-2026,Dinner,Cash,D003,380,25,0,19,424,Delivered,28,4
+4,C004,Meera,Nashik,R004,Tandoori Tales,Indian,12-01-2026,Lunch,UPI,D004,540,35,30,27,572,Delivered,35,5
+5,C005,Kabir,Nagpur,R005,Dragon Bowl,Chinese,15-01-2026,Dinner,Card,D005,720,45,60,36,741,Delivered,48,4
+6,C006,Anaya,Pune,R006,Green Leaf,Healthy,18-01-2026,Lunch,UPI,D001,460,30,25,23,488,Delivered,29,5
+7,C007,Vihaan,Mumbai,R007,Curry Corner,Indian,21-01-2026,Dinner,Card,D002,590,40,20,30,640,Delivered,44,4
+8,C008,Diya,Pune,R008,Pasta Plaza,Italian,24-01-2026,Dinner,UPI,D003,510,35,40,25,530,Delivered,37,3
+9,C009,Arjun,Nashik,R001,Spice Hub,Indian,02-02-2026,Lunch,Cash,D004,350,25,0,18,393,Delivered,31,4
+10,C010,Sara,Nagpur,R002,Pizza Point,Italian,05-02-2026,Dinner,Card,D005,780,45,70,39,794,Delivered,52,5
+11,C001,Aarav,Pune,R003,Burger House,Fast Food,08-02-2026,Dinner,UPI,D001,430,30,15,22,467,Delivered,30,4
+12,C002,Isha,Mumbai,R004,Tandoori Tales,Indian,11-02-2026,Lunch,Card,D002,610,40,50,30,630,Delivered,39,5
+13,C003,Rohan,Pune,R005,Dragon Bowl,Chinese,14-02-2026,Dinner,UPI,D003,550,35,20,28,593,Delivered,46,3
+14,C004,Meera,Nashik,R006,Green Leaf,Healthy,17-02-2026,Lunch,Cash,D004,390,25,10,20,425,Delivered,27,4
+15,C005,Kabir,Nagpur,R007,Curry Corner,Indian,20-02-2026,Dinner,Card,D005,680,45,40,34,719,Delivered,43,5
+16,C006,Anaya,Pune,R008,Pasta Plaza,Italian,23-02-2026,Dinner,UPI,D001,470,30,0,24,524,Delivered,34,4
+17,C007,Vihaan,Mumbai,R001,Spice Hub,Indian,01-03-2026,Lunch,Card,D002,520,35,25,26,556,Delivered,36,5
+18,C008,Diya,Pune,R002,Pizza Point,Italian,04-03-2026,Dinner,UPI,D003,630,40,30,32,672,Delivered,42,4
+19,C009,Arjun,Nashik,R003,Burger House,Fast Food,07-03-2026,Dinner,Cash,D004,410,25,0,21,456,Delivered,33,3
+20,C010,Sara,Nagpur,R004,Tandoori Tales,Indian,10-03-2026,Lunch,Card,D005,570,40,50,28,588,Delivered,47,5
+21,C001,Aarav,Pune,R005,Dragon Bowl,Chinese,13-03-2026,Dinner,UPI,D001,690,35,35,35,725,Delivered,45,4
+22,C002,Isha,Mumbai,R006,Green Leaf,Healthy,16-03-2026,Lunch,Card,D002,440,30,20,22,472,Delivered,38,4
+23,C003,Rohan,Pune,R007,Curry Corner,Indian,19-03-2026,Dinner,UPI,D003,600,40,25,31,646,Delivered,40,5
+24,C004,Meera,Nashik,R008,Pasta Plaza,Italian,22-03-2026,Dinner,Cash,D004,530,35,0,27,592,Delivered,55,3
+25,C005,Kabir,Nagpur,R001,Spice Hub,Indian,25-03-2026,Lunch,Card,D005,480,30,30,24,504,Delivered,29,5
+26,C006,Anaya,Pune,R002,Pizza Point,Italian,28-03-2026,Dinner,UPI,D001,740,45,60,37,762,Delivered,50,4
+27,C007,Vihaan,Mumbai,R003,Burger House,Fast Food,02-04-2026,Dinner,Card,D002,360,25,0,18,403,Delivered,26,4
+28,C008,Diya,Pune,R004,Tandoori Tales,Indian,05-04-2026,Lunch,UPI,D003,620,40,35,31,656,Delivered,43,5
+29,C009,Arjun,Nashik,R005,Dragon Bowl,Chinese,08-04-2026,Dinner,Cash,D004,580,35,20,29,624,Delivered,39,4
+30,C010,Sara,Nagpur,R006,Green Leaf,Healthy,11-04-2026,Lunch,Card,D005,450,30,15,23,488,Delivered,34,5
